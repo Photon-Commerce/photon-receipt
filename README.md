@@ -2,7 +2,7 @@
   <img src="https://images.squarespace-cdn.com/content/v1/607861b10c0e3b4816f56581/3eea3ca7-58ca-402d-9edf-b8e9e72eca3c/lightning.png?format=300w" alt="Photon Commerce">
 
   <h1>RECEIPT</h1>
-  <p><strong>Extract structured data from receipts with 99%+ accuracy</strong></p>
+  <p><strong>Extract structured data from receipts with 99.9%+ accuracy</strong></p>
   <p><strong>Powered by <a href="https://www.photoncommerce.com">Photon Commerce</a> — Managed AI Agents with data verification and validation</strong></p>
 
   <p>
@@ -10,7 +10,7 @@
     &nbsp;&nbsp;
     <a href="https://www.photoncommerce.com"><img src="https://img.shields.io/badge/GDPR-Attested-blue?style=for-the-badge" alt="GDPR"></a>
     &nbsp;&nbsp;
-    <a href="https://www.photoncommerce.com/pricing"><img src="https://img.shields.io/badge/Accuracy-99%25%2B-00C853?style=for-the-badge" alt="Accuracy"></a>
+    <a href="https://www.photoncommerce.com/pricing"><img src="https://img.shields.io/badge/Accuracy-99.9%25%2B-00C853?style=for-the-badge" alt="Accuracy"></a>
     &nbsp;&nbsp;
     <a href="https://www.photoncommerce.com/platform"><img src="https://img.shields.io/badge/Languages-25%2B-FF6D00?style=for-the-badge" alt="Languages"></a>
   </p>
@@ -24,7 +24,7 @@
 
 This repository contains ready-to-run code samples for extracting structured data from receipts using the **Photon PRO API**.
 
-Submit any receipt — PDF, image, Word, HTML, or email — and receive a structured JSON response with 100+ fields, verified to 99%+ accuracy by Photon's Managed Agents network of 2,300+ expert reviewers across 7+ countries.
+Submit any receipt — PDF, image, Word, HTML, or email — and receive a structured JSON response with 100+ fields, verified to 99.9%+ accuracy by Photon's Managed Agents network of 2,300+ expert reviewers across 7+ countries.
 
 ---
 
@@ -261,6 +261,7 @@ Get credentials: [Register a free sandbox account](https://sandbox-api.photoncom
 | Repo | Document |
 |------|----------|
 | [`photon-invoice`](https://github.com/Photon-Commerce/photon-invoice) | Invoices |
+| [`photon-statement`](https://github.com/Photon-Commerce/photon-statement) | Bank & Card Statements |
 
 ---
 
