@@ -263,7 +263,8 @@ Get credentials: [Register a free sandbox account](https://sandbox-api.photoncom
 | Repo | Document |
 |------|----------|
 | [`photon-invoice`](https://github.com/Photon-Commerce/photon-invoice) | Invoices |
-| [`photon-statement`](https://github.com/Photon-Commerce/photon-statement) | Bank & Card Statements |
+| [`photon-statement`](https://github.com/Photon-Commerce/photon-statement) | Bank & Card Statements|
+| [`photon-bill-of-lading`](https://github.com/Photon-Commerce/photon-bill-of-lading) | Bills of lading |
 
 ---
 
