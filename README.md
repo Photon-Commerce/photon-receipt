@@ -88,6 +88,8 @@ print(result["Payment_Type"])  # MasterCard
 | ![JavaScript](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | [extract_receipt.js](extract_receipt.js) | fetch + form-data |
 | ![cURL](https://img.shields.io/badge/cURL-073551?style=flat-square&logo=curl&logoColor=white) | [extract_receipt.sh](extract_receipt.sh) | curl |
 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | [extract_receipt.php](extract_receipt.php) | Guzzle |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | [extract_receipt.go](extract_receipt.go) | net/http |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | [extract_receipt.java](extract_receipt.java) | OkHttp |
 
 Every example supports both **local file upload** and **URL-based submission**, plus optional webhook callbacks.
 
@@ -266,6 +268,7 @@ Get credentials: [Register a free sandbox account](https://sandbox-api.photoncom
 | [`photon-statement`](https://github.com/Photon-Commerce/photon-statement) | Bank & Card Statements|
 | [`photon-bill-of-lading`](https://github.com/Photon-Commerce/photon-bill-of-lading) | Bills of lading |
 | [`photon-check`](https://github.com/Photon-Commerce/photon-check) | Checks |
+| [`photon-remittance`](https://github.com/Photon-Commerce/photon-remittance) | Remittances |
 
 ---
 
